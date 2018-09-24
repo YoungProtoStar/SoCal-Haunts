@@ -7,6 +7,9 @@
  * Update the background images to suit
  * your project.
  */
+ #card-1 {
+ 	
+ }
 .bg-header {
   background: url(images/pennywise.png) center center no-repeat;
   background-attachment: fixed;
